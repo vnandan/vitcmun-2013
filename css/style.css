@@ -1,0 +1,61 @@
+/*
+ *Author Name: Vipul Nandan
+ *Email: vipnandan@gmail.com
+ *site: unstablecode.com
+ *Assigned: 18/8/'13
+ *Completed: 20/8/'13
+ *Project: VIT Chennai MUN'13
+ */
+    
+    h6.panel{
+      text-align: center;
+      text-justify:auto;
+      font-size: small;
+    }
+    #description
+    {
+      font-family: "OpenSans","Helvetica Neue","Helvetica",Arial,Verdana,sans-serif;
+    }
+    .top-bar-section ul li>a:hover{
+      background: rgb(32,145,209);
+    }
+    #councils>div{
+      opacity: 0.8;
+      cursor: pointer;
+    }
+    #councils>div:hover{
+      opacity: 1.0;
+    }
+    .notice{
+        color: #000;
+        float: right;
+        text-decoration: underline;
+        text-emphasis: 200;
+        }
+    #mun_logo
+        {
+            position: absolute;
+            left:3px;
+        }
+     #vitcc_logo{
+            position: absolute;right: 3px;
+        }   
+    #container{
+            margin:auto;
+            border: 1px solid #DDDDDD;
+            margin-top: 15px;
+            height: auto;
+        }
+      #author a
+      {
+        color: rgb(45,45,45);
+      }
+      #author a:hover
+      {
+        text-decoration: underline;
+      }
+      
+      #note
+      {
+        margin: auto;
+      }
